@@ -1,6 +1,6 @@
 'use client';
 
-import { Task, Priority } from '@/lib/types/task'
+import { Task } from '@/lib/types/task'
 import { useTasks } from '@/context/TaskContext';
 import { useState } from 'react';
 import ConfirmationDialog from './ConfirmationDialog';
