@@ -136,7 +136,8 @@ Distributed under the **MIT License**. See `LICENSE` for more details.
 
 **Saurav Phuyal**  
 📩 Email: [codewithsauravphuyal@gmail.com](mailto:codewithsauravphuyal@gmail.com)  
-🔗 GitHub: [codewithsauravphuyal](https://github.com/codewithsauravphuyal)
+🔗 GitHub: [codewithsauravphuyal](https://github.com/codewithsauravphuyal)  
+🔗 LinkedIn: [sauravphuyal](https://www.linkedin.com/in/sauravphuyal/) 
 
 ## 🌟 Acknowledgments
 
