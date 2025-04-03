@@ -44,11 +44,11 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/codewithsauravphuyal/Taskly.git
+   git clone https://github.com/codewithsauravphuyal/TaskMasterTS
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Taskly
+   cd TaskMasterTS
    ```
 3. **Install dependencies:**
    ```bash
